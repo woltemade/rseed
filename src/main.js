@@ -25,3 +25,5 @@ var centerSpinModifier = new Modifier({
 });
 
 mainContext.add(centerSpinModifier).add(logo);
+
+//herald was here...
