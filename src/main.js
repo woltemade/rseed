@@ -26,4 +26,5 @@ var centerSpinModifier = new Modifier({
 
 mainContext.add(centerSpinModifier).add(logo);
 
-//Lets see what origin does with this line
+//Lets pull this change from the fork
+
