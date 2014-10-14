@@ -14,7 +14,7 @@ if(typeof(Storage) !== "undefined") {
     // Code for localStorage/sessionStorage.
     // Get his guid
 	var myguid = localStorage.getItem("guid");
-	if (myguid == null){
+	if (myguid === null){
 		//guid from storage is: null, so get / set new one
 		var myguid = guid();
 		localStorage.setItem("guid", myguid);
