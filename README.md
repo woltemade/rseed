@@ -1,7 +1,7 @@
-#Famo.us Base
-> E.g. Seed project to get started with Famo.us.
+#rseed
+> Famo.us seed.
 
-[![Build Status](https://travis-ci.org/woltemade/famous-base.svg?branch=master)](https://travis-ci.org/woltemade/famous-base) [![Dependency Status](https://david-dm.org/woltemade/famous-base.svg)](https://david-dm.org/woltemade/famous-base) [![devDependency Status](https://david-dm.org/woltemade/famous-base/dev-status.svg)](https://david-dm.org/woltemade/famous-base#info=devDependencies)
+[![Build Status](https://travis-ci.org/woltemade/rseed.svg?branch=master)](https://travis-ci.org/woltemade/rseed) [![Dependency Status](https://david-dm.org/woltemade/rseed.svg)](https://david-dm.org/woltemade/rseed) [![devDependency Status](https://david-dm.org/woltemade/rseed/dev-status.svg)](https://david-dm.org/woltemade/rseed#info=devDependencies)
 
 ##Dependencies
 It is actually quite simple really

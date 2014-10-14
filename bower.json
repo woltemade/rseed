@@ -1,8 +1,8 @@
 {
-  "name": "famous-base",
-  "description": "E.g. Seed project to get started with Famo.us.",
+  "name": "rseed",
+  "description": "Famo.us seed.",
   "version": "0.1.0",
-  "homepage": "https://github.com/woltemade/famous-base",
+  "homepage": "https://github.com/woltemade/rseed",
   "authors": [{
     "name": "Herald Smit",
     "url": "http://github.com/woltemade/"

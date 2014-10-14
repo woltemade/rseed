@@ -1,8 +1,8 @@
 {
-  "name": "famous-base",
-  "description": "E.g. Seed project to get started with Famo.us.",
+  "name": "rseed",
+  "description": "Famo.us seed.",
   "version": "0.1.0",
-  "homepage": "https://github.com/woltemade/famous-base",
+  "homepage": "https://github.com/woltemade/rseed",
   "author": {
     "name": "Herald Smit",
     "url": "http://github.com/woltemade/"
@@ -10,10 +10,10 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git://github.com/woltemade/famous-base.git"
+    "url": "git://github.com/woltemade/rseed.git"
   },
   "bugs": {
-    "url": "https://github.com/woltemade/famous-base/issues"
+    "url": "https://github.com/woltemade/rseed/issues"
   },
   "engines": {
     "node": ">= 0.10.0"
